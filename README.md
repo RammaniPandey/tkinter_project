@@ -13,3 +13,15 @@ Displays current date in MM/DD/YY format.
 Auto-refreshes every second.
 
 Uses Tkinter GUI for a simple and clean display.
+
+## License
+
+This project is open-source and available under the MIT License.
+
+## Contributing
+
+Feel free to submit pull requests for improvements or enhancements.
+
+### Author
+
+Rammani Pandey
